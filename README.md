@@ -1,1 +1,2 @@
-# demo_ui_tests
+## проект на Python с тестами веб-интерфейса для [BookStore DemoQa](https://demoqa.com/books)  
+
